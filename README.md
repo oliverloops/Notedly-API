@@ -1,2 +1,2 @@
-# Notedly-API
-A full server-side GraphQL Based API
+# Notedly-API :notebook:
+## _A full server-side GraphQL Based API_ :bowtie:
